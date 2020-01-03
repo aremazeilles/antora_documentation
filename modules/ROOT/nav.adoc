@@ -1,0 +1,2 @@
+* xref:welcome.adoc[Welcome]
+* xref:secondpage.adoc[Second page]

@@ -1,0 +1,24 @@
+= Welcome Page
+:imagesdir: ../assets/images
+:sectnums:
+:sectnumlevels: 4
+:toc:
+:toclevels: 4
+:experimental:
+:keywords: AsciiDoc
+:source-highlighter: highlight.js
+:icons: font
+
+This is a first trial of the antora tool.
+
+== First section
+
+This is my first section
+
+== Antora tools
+
+The references used for generating that example:
+
+- https://fabianfnc.github.io/bocs/antoratest/latest/introduction.html[Antora Test Docs Site]
+
+That's all folks.

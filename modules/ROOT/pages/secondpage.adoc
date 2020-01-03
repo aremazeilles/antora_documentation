@@ -1,0 +1,16 @@
+= Second page generated
+:imagesdir: ../assets/images
+:sectnums:
+:sectnumlevels: 4
+:toc:
+:toclevels: 4
+:experimental:
+:keywords: AsciiDoc
+:source-highlighter: highlight.js
+:icons: font
+
+This is a second page
+
+== Another section
+
+Content of the second section
