@@ -2,8 +2,7 @@
 :imagesdir: ../assets/images
 :sectnums:
 :sectnumlevels: 4
-:toc:
-:toclevels: 4
+:toc: right
 :experimental:
 :keywords: AsciiDoc
 :source-highlighter: highlight.js
@@ -14,3 +13,4 @@ This is a second page
 == Another section
 
 Content of the second section
+And blablala
